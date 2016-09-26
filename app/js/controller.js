@@ -14,9 +14,9 @@ app.config(function($routeProvider) {
         })
 
         // route for the sklad page
-        .when('/sklad', {
-            templateUrl : 'templates/sklad.html',
-            controller  : 'skladController'
+        .when('/stock', {
+            templateUrl : 'templates/stock.html',
+            controller  : 'stockController'
         })
 
         // route for the sales page
@@ -59,7 +59,7 @@ app.controller('salesController', function($scope) {
 });
 
 
-app.controller('skladController', function($scope, webtest) {
+app.controller('stockController', function($scope, webtest) {
     console.log("sklad");
 
     webtest.fetch().then(function(data) {
