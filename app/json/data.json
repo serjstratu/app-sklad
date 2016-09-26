@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Пилы",
+    "name": "Пила по металлу",
+    "price": 30,
+    "saleprice": 45,
+    "rest": 40
+  },
+  {
+    "category": "Пилы",
+    "name": "Пила по дереву",
+    "price": 35,
+    "saleprice": 45,
+    "rest": 10
+  },
+  {
+    "category": "Диски",
+    "name": "Диск по металлу",
+    "price": 10,
+    "saleprice": 11,
+    "rest": 40
+  },
+  {
+    "category": "Наборы",
+    "name": "Набор большой X25",
+    "price": 450,
+    "saleprice": 500,
+    "rest": 2
+  },
+  {
+    "category": "Наборы",
+    "name": "Набор со сверлами",
+    "price": 1250,
+    "saleprice": 1400,
+    "rest": 1
+  },
+  {
+    "category": "Конденсаторы",
+    "name": "Конденсатор на 4",
+    "price": 10,
+    "saleprice": 12,
+    "rest": 20
+  },
+  {
+    "category": "Конденсаторы",
+    "name": "Конденсатор на 8",
+    "price": 10,
+    "saleprice": 12,
+    "rest": 20
+  },
+  {
+    "category": "Конденсаторы",
+    "name": "Конденсатор на 12",
+    "price": 12,
+    "saleprice": 14,
+    "rest": 10
+  }
+]
